@@ -1194,7 +1194,7 @@ return root;
 
 
 
-__wxAppCode__['app.json']={"pages":["pages/index/index","pages/my/index"],"window":{"navigationStyle":"custom"},"tabBar":{"color":"#7A7E83","selectedColor":"#D81E06","borderStyle":"black","backgroundColor":"#FFFFFF","list":[{"pagePath":"pages/index/index","iconPath":"static/img/zhang_gray.png","selectedIconPath":"static/img/zhang_red.png","text":"记账"},{"pagePath":"pages/my/index","iconPath":"static/img/my_gray.png","selectedIconPath":"static/img/my_red.png","text":"我的"}]},"networkTimeout":{},"debug":false,"functionalPages":false,"subPackages":[],"workers":"","preloadRule":{},"requiredBackgroundModes":[],"plugins":{},"resizable":false,"navigateToMiniProgramAppIdList":[],"permission":{},"usingComponents":{}};
+__wxAppCode__['app.json']={"pages":["pages/index/index","pages/my/index"],"window":{"navigationBarTextStyle":"black","navigationBarTitleText":"caiji_app","navigationBarBackgroundColor":"#F8F8F8","backgroundColor":"#F8F8F8"},"tabBar":{"color":"#7A7E83","selectedColor":"#D81E06","borderStyle":"black","backgroundColor":"#FFFFFF","list":[{"pagePath":"pages/index/index","iconPath":"static/img/zhang_gray.png","selectedIconPath":"static/img/zhang_red.png","text":"记账"},{"pagePath":"pages/my/index","iconPath":"static/img/my_gray.png","selectedIconPath":"static/img/my_red.png","text":"我的"}]},"networkTimeout":{},"debug":false,"functionalPages":false,"subPackages":[],"workers":"","preloadRule":{},"requiredBackgroundModes":[],"plugins":{},"resizable":false,"navigateToMiniProgramAppIdList":[],"permission":{},"usingComponents":{}};
 __wxAppCode__['app.wxml']=$gwx('./app.wxml');
 
 
