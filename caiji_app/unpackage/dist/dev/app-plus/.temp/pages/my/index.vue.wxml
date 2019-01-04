@@ -1,8 +1,14 @@
+<import src="/components/uni-icon/uni-icon.vue.wxml" />
 <template name="68dbd8fe">
   <view class="_view data-v-6bd6e7da content">
     <view class="_view data-v-6bd6e7da top">
       <image class="_image data-v-6bd6e7da user_head" src="{{real_head}}" mode="aspectFit"></image>
+      <view class="_view data-v-6bd6e7da my_set">
+        <template type="gear" color="#FFFFFF" size="24" data="{{...$root['0'], ...$root[$kk+'vC6-0'],$root}}" is="43e50c1a"></template>
+      </view>
+      <view class="_view data-v-6bd6e7da days">
+        <text class="_text data-v-6bd6e7da">记账 {{days}}天</text>
+      </view>
     </view>
-    <view class="_view data-v-6bd6e7da"></view>
   </view>
 </template>

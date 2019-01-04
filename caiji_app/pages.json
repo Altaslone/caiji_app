@@ -19,14 +19,7 @@
 			"style": {
 				"navigationBarTitleText": "我的",
 				"app-plus": {
-					"titleNView": {
-						"buttons": [{
-							"type": "none",
-							"fontSrc": "_www/static/my_set.ttf",
-							"text": "\ue786"
-						}],
-						"type": "transparent"
-					},
+					"titleNView": false,
 					"bounce": "none",
 					"pullToRefresh": {
 						"support": true,

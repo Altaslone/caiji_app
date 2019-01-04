@@ -1,1 +1,1 @@
-{"navigationBarTitleText":"我的","titleNView":{"buttons":[{"type":"none","fontSrc":"_www/static/my_set.ttf","text":""}],"type":"transparent"},"bounce":"none","pullToRefresh":{"support":true,"color":"#FF0000","style":"circle"},"scrollIndicator":"none"}
+{"navigationBarTitleText":"我的","titleNView":false,"bounce":"none","pullToRefresh":{"support":true,"color":"#FF0000","style":"circle"},"scrollIndicator":"none"}
